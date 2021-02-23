@@ -1,0 +1,16 @@
+.css_emiruc_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_emiruc_grid_line {vertical-align: top;text-align: left;}
+.css_cobnumero_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_cobnumero_grid_line {vertical-align: top;text-align: center;}
+.css_fclnumero_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_fclnumero_grid_line {vertical-align: top;text-align: left;}
+.css_cobfecha_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_cobfecha_grid_line {vertical-align: top;text-align: center;}
+.css_cobvaltotal_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_cobvaltotal_grid_line {vertical-align: top;text-align: right;}
+.css_cobanula_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_cobanula_grid_line {vertical-align: top;text-align: right;}
+.css_cobvalefec_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_cobvalefec_grid_line {vertical-align: top;text-align: right;}
+.css_cobvalcheq_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_cobvalcheq_grid_line {vertical-align: top;text-align: right;}

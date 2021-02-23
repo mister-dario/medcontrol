@@ -1,0 +1,20 @@
+.css_factura_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_factura_grid_line {vertical-align: top;text-align: center;}
+.css_o_razonsocial_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_o_razonsocial_grid_line {vertical-align: top;text-align: right;}
+.css_o_idcomprador_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_o_idcomprador_grid_line {vertical-align: top;text-align: center;}
+.css_o_razonsocialcomprador_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_o_razonsocialcomprador_grid_line {vertical-align: top;text-align: right;}
+.css_o_valoradicional5_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_o_valoradicional5_grid_line {vertical-align: top;text-align: right;}
+.css_fecha_emision_formateada_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_emision_formateada_grid_line {vertical-align: top;text-align: center;}
+.css_o_facturado_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_o_facturado_grid_line {vertical-align: top;text-align: center;}
+.css_o_importetotal_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_o_importetotal_grid_line {vertical-align: top;text-align: right;}
+.css_valor_pendiente_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_valor_pendiente_grid_line {text-align: right;}
+.css_ride_label {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_ride_grid_line {text-align: center;}

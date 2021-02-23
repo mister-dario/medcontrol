@@ -1,0 +1,7 @@
+index.php
+CIMEDFAC
+grid_ficha_cliente_capture
+NAO
+cons
+grid_ficha_cliente_capture
+LigMd5

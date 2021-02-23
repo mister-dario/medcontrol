@@ -1,0 +1,14 @@
+.css_tipo_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tipo_grid_line {vertical-align: top;text-align: left;}
+.css_fecha_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_fecha_grid_line {vertical-align: top;text-align: left;}
+.css_numdoc_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_numdoc_grid_line {vertical-align: top;text-align: left;}
+.css_forma_pago_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_forma_pago_grid_line {vertical-align: top;text-align: left;}
+.css_debe_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_debe_grid_line {vertical-align: top;text-align: right;}
+.css_haber_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_haber_grid_line {vertical-align: top;text-align: right;}
+.css_saldo_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_saldo_grid_line {text-align: right;}

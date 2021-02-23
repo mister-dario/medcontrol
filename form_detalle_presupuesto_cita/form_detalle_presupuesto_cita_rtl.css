@@ -1,0 +1,27 @@
+.css_sercodigo__label { }
+.css_sercodigo__line {text-align:left;}
+.css_sercodigo__obj {text-align:left;width:400px;}
+.css_dprcantidad__label {text-align:center;}
+.css_dprcantidad__line {text-align:right;}
+.css_dprcantidad__obj {text-align:right;}
+.css_dprprecio__label {text-align:center;}
+.css_dprprecio__line {text-align:right;}
+.css_dprprecio__obj {text-align:right;}
+.css_dprporcendesc__label {text-align:center;}
+.css_dprporcendesc__line {text-align:right;}
+.css_dprporcendesc__obj {text-align:right;}
+.css_dprtotal__label {text-align:center;}
+.css_dprtotal__line {text-align:right;}
+.css_dprtotal__obj {text-align:right;}
+.css_dprabonado__label {text-align:center;}
+.css_dprabonado__line {text-align:right;}
+.css_dprabonado__obj {text-align:right;}
+.css_dprsaldo__label {text-align:center;}
+.css_dprsaldo__line {text-align:right;}
+.css_dprsaldo__obj {text-align:right;}
+.css_dproriginal__label {text-align:center;}
+.css_dproriginal__line {text-align:center;}
+.css_dproriginal__obj {text-align:center;}
+.css_add__label {text-align:center;}
+.css_add__line {font-weight:bold;border-width:1px;text-align:center;}
+.css_add__obj {font-size:24px;background-color:#00CC00;font-weight:bold;text-align:center;border-style:hidden;}

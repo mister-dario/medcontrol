@@ -1,0 +1,7 @@
+index.php
+CIMEDFAC
+pdfreport_FACTURA
+NAO
+reportpdf
+pdfreport_FACTURA
+LigMd5

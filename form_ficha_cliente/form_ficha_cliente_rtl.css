@@ -1,0 +1,168 @@
+.css_fclnumero_label { }
+.css_fclnumero_line {text-align:left;}
+.css_fclnumero_obj {text-align:left;}
+.css_fclnombres_label { }
+.css_fclnombres_line { }
+.css_fclnombres_obj { }
+.css_fclapellidos_label { }
+.css_fclapellidos_line { }
+.css_fclapellidos_obj { }
+.css_fclfechareg_label { }
+.css_fclfechareg_line { }
+.css_fclfechareg_obj { }
+.css_fclfechanac_label { }
+.css_fclfechanac_line { }
+.css_fclfechanac_obj { }
+.css_fclsexo_label { }
+.css_fclsexo_line { }
+.css_fclsexo_obj { }
+.css_fclcedula_label { }
+.css_fclcedula_line { }
+.css_fclcedula_obj { }
+.css_fclestciv_label { }
+.css_fclestciv_line { }
+.css_fclestciv_obj { }
+.css_fcldireccion_label { }
+.css_fcldireccion_line { }
+.css_fcldireccion_obj { }
+.css_fclciudad_label { }
+.css_fclciudad_line { }
+.css_fclciudad_obj { }
+.css_fcltelefono_label { }
+.css_fcltelefono_line { }
+.css_fcltelefono_obj { }
+.css_fclcelular_label { }
+.css_fclcelular_line { }
+.css_fclcelular_obj { }
+.css_fclemail_label { }
+.css_fclemail_line { }
+.css_fclemail_obj { }
+.css_fclprofesion_label { }
+.css_fclprofesion_line { }
+.css_fclprofesion_obj { }
+.css_fcllugartrab_label { }
+.css_fcllugartrab_line { }
+.css_fcllugartrab_obj { }
+.css_fclreferpub_label {text-align:right;}
+.css_fclreferpub_line {text-align:left;}
+.css_fclreferpub_obj {text-align:left;}
+.css_fclreferface_label {text-align:right;}
+.css_fclreferface_line {text-align:left;}
+.css_fclreferface_obj {text-align:left;}
+.css_fclreferweb_label {text-align:right;}
+.css_fclreferweb_line {text-align:left;}
+.css_fclreferweb_obj {text-align:left;}
+.css_fclreferremit_label {text-align:right;}
+.css_fclreferremit_line {text-align:left;}
+.css_fclreferremit_obj {text-align:left;}
+.css_fclreferremitnom_label { }
+.css_fclreferremitnom_line { }
+.css_fclreferremitnom_obj { }
+.css_fclmotivprimcons_label { }
+.css_fclmotivprimcons_line { }
+.css_fclmotivprimcons_obj { }
+.css_fclproblemactual_label { }
+.css_fclproblemactual_line { }
+.css_fclproblemactual_obj { }
+.css_fclbajotratmed_label { }
+.css_fclbajotratmed_line {text-align:left;width:200px;}
+.css_fclbajotratmed_obj {text-align:left;}
+.css_fclalerganest_label { }
+.css_fclalerganest_line {text-align:left;width:200px;}
+.css_fclalerganest_obj {text-align:left;}
+.css_fclprophemor_label { }
+.css_fclprophemor_line {text-align:left;width:200px;}
+.css_fclprophemor_obj {text-align:left;}
+.css_fclintervquir_label { }
+.css_fclintervquir_line {text-align:left;}
+.css_fclintervquir_obj {text-align:left;}
+.css_fclmediesp_label { }
+.css_fclmediesp_line {text-align:left;}
+.css_fclmediesp_obj {text-align:left;}
+.css_fclhiperten_label { }
+.css_fclhiperten_line {text-align:left;}
+.css_fclhiperten_obj {text-align:left;}
+.css_fclhipotiro_label { }
+.css_fclhipotiro_line {text-align:left;}
+.css_fclhipotiro_obj {text-align:left;}
+.css_fclaltercora_label { }
+.css_fclaltercora_line {text-align:left;}
+.css_fclaltercora_obj {text-align:left;}
+.css_fclgastrit_label { }
+.css_fclgastrit_line {text-align:left;}
+.css_fclgastrit_obj {text-align:left;}
+.css_fclenfsangre_label { }
+.css_fclenfsangre_line {text-align:left;}
+.css_fclenfsangre_obj {text-align:left;}
+.css_fcldiabet_label { }
+.css_fcldiabet_line {text-align:left;}
+.css_fcldiabet_obj {text-align:left;}
+.css_fclhepatit_label { }
+.css_fclhepatit_line {text-align:left;}
+.css_fclhepatit_obj {text-align:left;}
+.css_fclcancer_label { }
+.css_fclcancer_line {text-align:left;}
+.css_fclcancer_obj {text-align:left;}
+.css_fclvih_label { }
+.css_fclvih_line {text-align:left;}
+.css_fclvih_obj {text-align:left;}
+.css_fclartrit_label { }
+.css_fclartrit_line {text-align:left;}
+.css_fclartrit_obj {text-align:left;}
+.css_fclinsufren_label { }
+.css_fclinsufren_line {text-align:left;}
+.css_fclinsufren_obj {text-align:left;}
+.css_fclotrasenf_label { }
+.css_fclotrasenf_line {text-align:left;}
+.css_fclotrasenf_obj {text-align:left;}
+.css_fclotrasenfdesc_label {text-align:right;}
+.css_fclotrasenfdesc_line { }
+.css_fclotrasenfdesc_obj { }
+.css_fclobserv_label { }
+.css_fclobserv_line { }
+.css_fclobserv_obj { }
+.css_fclusucrea_label { }
+.css_fclusucrea_line { }
+.css_fclusucrea_obj { }
+.css_fclusumodi_label { }
+.css_fclusumodi_line { }
+.css_fclusumodi_obj { }
+.css_fclfeccrea_label { }
+.css_fclfeccrea_line { }
+.css_fclfeccrea_obj { }
+.css_fclfecmodi_label { }
+.css_fclfecmodi_line { }
+.css_fclfecmodi_obj { }
+.css_fclfacigual_label { }
+.css_fclfacigual_line {text-align:left;}
+.css_fclfacigual_obj {text-align:left;}
+.css_fclfacnombre_label { }
+.css_fclfacnombre_line { }
+.css_fclfacnombre_obj { }
+.css_fclfacruc_label { }
+.css_fclfacruc_line { }
+.css_fclfacruc_obj { }
+.css_fclfacdir_label { }
+.css_fclfacdir_line { }
+.css_fclfacdir_obj { }
+.css_fclfactelf_label { }
+.css_fclfactelf_line { }
+.css_fclfactelf_obj { }
+.css_fclfacmail_label { }
+.css_fclfacmail_line { }
+.css_fclfacmail_obj { }
+.css_fclactivo_label { }
+.css_fclactivo_line {text-align:left;}
+.css_fclactivo_obj {text-align:left;}
+.css_cobros_label { }
+.css_cobros_line { }
+.css_cobros_obj { }
+.css_historias_label { }
+.css_historias_line { }
+.css_historias_obj { }
+.css_presupuestos_label { }
+.css_presupuestos_line { }
+.css_presupuestos_obj { }
+.css_update_titulo_citas_label { }
+.css_update_titulo_citas_line { }
+.css_update_titulo_citas_obj { }

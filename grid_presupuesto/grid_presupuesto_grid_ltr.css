@@ -1,0 +1,12 @@
+.css_prenumero_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_prenumero_grid_line {vertical-align: top;text-align: center;}
+.css_prenombre_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_prenombre_grid_line {vertical-align: top;text-align: left;}
+.css_fclnumero_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_fclnumero_grid_line {vertical-align: top;text-align: left;}
+.css_medcodigo_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_medcodigo_grid_line {vertical-align: top;text-align: left;}
+.css_preestado_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_preestado_grid_line {vertical-align: top;text-align: center;}
+.css_preobserv_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_preobserv_grid_line {vertical-align: top;text-align: left;}

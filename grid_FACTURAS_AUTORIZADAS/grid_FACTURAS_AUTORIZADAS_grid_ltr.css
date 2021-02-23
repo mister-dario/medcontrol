@@ -1,0 +1,24 @@
+.css_ride_label {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_ride_grid_line {text-align: center;}
+.css_factura_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_factura_grid_line {vertical-align: top;text-align: center;}
+.css_f_razonsocialcomprador_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_f_razonsocialcomprador_grid_line {vertical-align: top;text-align: left;}
+.css_f_idcomprador_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_f_idcomprador_grid_line {vertical-align: top;text-align: center;}
+.css_fechaemision_formateada_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fechaemision_formateada_grid_line {vertical-align: top;text-align: center;}
+.css_f_valoradicional5_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_f_valoradicional5_grid_line {vertical-align: top;text-align: left;}
+.css_f_totalsinimpuestos_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_f_totalsinimpuestos_grid_line {vertical-align: top;text-align: right;}
+.css_f_totalsinimpuestos_tot_ger {text-align: right;}
+.css_f_base_0_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_f_base_0_grid_line {vertical-align: top;text-align: right;}
+.css_f_base_12_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_f_base_12_grid_line {vertical-align: top;text-align: right;}
+.css_f_valor1_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_f_valor1_grid_line {vertical-align: top;text-align: right;}
+.css_f_importetotal_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_f_importetotal_grid_line {vertical-align: top;text-align: right;}
+.css_f_importetotal_tot_ger {text-align: right;}

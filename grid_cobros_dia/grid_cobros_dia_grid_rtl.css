@@ -1,0 +1,28 @@
+.css_tipo_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tipo_grid_line {vertical-align: top;text-align: right;}
+.css_numero_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_numero_grid_line {vertical-align: top;text-align: right;}
+.css_cliente_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cliente_grid_line {vertical-align: top;text-align: right;}
+.css_fecha_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_fecha_grid_line {vertical-align: top;text-align: right;}
+.css_efectivo_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_efectivo_grid_line {vertical-align: top;text-align: right;}
+.css_efectivo_tot_ger {text-align: right;}
+.css_cheque_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_cheque_grid_line {vertical-align: top;text-align: right;}
+.css_cheque_tot_ger {text-align: right;}
+.css_tarjeta_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_tarjeta_grid_line {vertical-align: top;text-align: right;}
+.css_tarjeta_tot_ger {text-align: right;}
+.css_transferencia_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_transferencia_grid_line {vertical-align: top;text-align: right;}
+.css_transferencia_tot_ger {text-align: right;}
+.css_retfte_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_retfte_grid_line {vertical-align: top;text-align: right;}
+.css_retfte_tot_ger {text-align: right;}
+.css_credito_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_credito_grid_line {vertical-align: top;text-align: right;}
+.css_credito_tot_ger {text-align: right;}
+.css_orden_t_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_orden_t_grid_line {vertical-align: top;text-align: right;}

@@ -1,0 +1,14 @@
+.css_ageactivo_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_ageactivo_grid_line {vertical-align: top;text-align: center;}
+.css_medcodigo_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_medcodigo_grid_line {vertical-align: top;text-align: right;}
+.css_agenombre_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_agenombre_grid_line {vertical-align: top;text-align: right;}
+.css_color_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_color_grid_line {background-color:#000000;text-align: center;}
+.css_agesecuen_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_agesecuen_grid_line {vertical-align: top;text-align: right;}
+.css_ageintervalo_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_ageintervalo_grid_line {vertical-align: top;text-align: right;}
+.css_agelunactivo_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_agelunactivo_grid_line {vertical-align: top;text-align: right;}

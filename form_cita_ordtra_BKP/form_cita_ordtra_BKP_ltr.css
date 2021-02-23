@@ -1,0 +1,75 @@
+.css_fclnumero_label { }
+.css_fclnumero_line {text-align:left;}
+.css_fclnumero_obj {text-align:left;}
+.css_procesar_factura_label {font-size:15px;color:#EE0000;font-weight:bold;border-width:1px;text-align:center;width:150px;height:20px;border-style:none;}
+.css_procesar_factura_line {font-weight:bold;text-align:center;}
+.css_procesar_factura_obj {background-color:#FF9900;font-weight:bold;border-width:1px;text-align:center;border-style:solid;}
+.css_servicios_label { }
+.css_servicios_line { }
+.css_servicios_obj { }
+.css_emisor_label { }
+.css_emisor_line { }
+.css_emisor_obj { }
+.css_tipo_pago_label { }
+.css_tipo_pago_line { }
+.css_tipo_pago_obj { }
+.css_valor_efec_label { }
+.css_valor_efec_line { }
+.css_valor_efec_obj {text-align:right;}
+.css_valor_cheque_label { }
+.css_valor_cheque_line { }
+.css_valor_cheque_obj {text-align:right;}
+.css_valor_tarjcred_label { }
+.css_valor_tarjcred_line { }
+.css_valor_tarjcred_obj {text-align:right;}
+.css_valor_transfer_label { }
+.css_valor_transfer_line { }
+.css_valor_transfer_obj {text-align:right;}
+.css_num_cheque_label { }
+.css_num_cheque_line { }
+.css_num_cheque_obj { }
+.css_banco_cheque_label { }
+.css_banco_cheque_line { }
+.css_banco_cheque_obj { }
+.css_tipo_tarjcred_label { }
+.css_tipo_tarjcred_line { }
+.css_tipo_tarjcred_obj { }
+.css_num_tarjcred_label { }
+.css_num_tarjcred_line { }
+.css_num_tarjcred_obj { }
+.css_banco_transfer_label { }
+.css_banco_transfer_line { }
+.css_banco_transfer_obj { }
+.css_numcta_transfer_label { }
+.css_numcta_transfer_line { }
+.css_numcta_transfer_obj { }
+.css_totalsinimp_label { }
+.css_totalsinimp_line { }
+.css_totalsinimp_obj { }
+.css_totaldesc_label { }
+.css_totaldesc_line { }
+.css_totaldesc_obj { }
+.css_base12_label { }
+.css_base12_line { }
+.css_base12_obj { }
+.css_base0_label { }
+.css_base0_line { }
+.css_base0_obj { }
+.css_valor_iva_label { }
+.css_valor_iva_line { }
+.css_valor_iva_obj { }
+.css_importe_total_label { }
+.css_importe_total_line { }
+.css_importe_total_obj { }
+.css_fech_vence_label { }
+.css_fech_vence_line { }
+.css_fech_vence_obj { }
+.css_val_primcli_label { }
+.css_val_primcli_line { }
+.css_val_primcli_obj { }
+.css_detalle_presupuesto_label { }
+.css_detalle_presupuesto_line { }
+.css_detalle_presupuesto_obj { }
+.css_forma_factura_label { }
+.css_forma_factura_line { }
+.css_forma_factura_obj { }
