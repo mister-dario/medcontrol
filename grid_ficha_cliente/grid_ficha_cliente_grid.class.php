@@ -950,7 +950,7 @@ $_SESSION['scriptcase']['grid_ficha_cliente']['contr_erro'] = 'off';
             "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
 <HTML<?php echo $_SESSION['scriptcase']['reg_conf']['html_dir'] ?>>
 <HEAD>
- <TITLE>PACIENTES :: PDF</TITLE>
+ <TITLE>FICHAS DE PACIENTES :: PDF</TITLE>
  <META http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <?php
            if ($_SESSION['scriptcase']['proc_mobile'])
@@ -1048,7 +1048,7 @@ $_SESSION['scriptcase']['grid_ficha_cliente']['contr_erro'] = 'off';
        $nm_saida->saida("            \"http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd\">\r\n");
        $nm_saida->saida("  <HTML" . $_SESSION['scriptcase']['reg_conf']['html_dir'] . ">\r\n");
        $nm_saida->saida("  <HEAD>\r\n");
-       $nm_saida->saida("   <TITLE>PACIENTES</TITLE>\r\n");
+       $nm_saida->saida("   <TITLE>FICHAS DE PACIENTES</TITLE>\r\n");
        $nm_saida->saida("   <META http-equiv=\"Content-Type\" content=\"text/html; charset=" . $_SESSION['scriptcase']['charset_html'] . "\" />\r\n");
        if ($_SESSION['scriptcase']['proc_mobile'])
        {
@@ -1467,6 +1467,7 @@ $nm_saida->saida("                        <link rel=\"shortcut icon\" href=\"\">
            $nm_saida->saida("         tipo = 'save';\r\n");
            $nm_saida->saida("       }\r\n");
            $nm_saida->saida("       if ($(\"#id_div_save_grid_new_\" + pos).css('display') != 'none') {\r\n");
+               $nm_saida->saida("         $(\"#save_grid_\" + pos).removeClass(\"selected\");\r\n");
            $nm_saida->saida("         $(\"#id_div_save_grid_new_\" + pos).hide();\r\n");
                $nm_saida->saida("         return;\r\n");
            $nm_saida->saida("       }\r\n");
@@ -1474,7 +1475,7 @@ $nm_saida->saida("                        <link rel=\"shortcut icon\" href=\"\">
            $nm_saida->saida("     else\r\n");
            $nm_saida->saida("     {\r\n");
            $nm_saida->saida("         if ($(\"#sc_id_save_grid_placeholder_\" + pos).css('display') != 'none') {\r\n");
-               $nm_saida->saida("             $(\"#save_grid_\" + pos).removeClass(\"selected\")\r\n");
+               $nm_saida->saida("             $(\"#save_grid_\" + pos).removeClass(\"selected\");\r\n");
                $nm_saida->saida("             scBtnSaveGridHide(pos);\r\n");
                $nm_saida->saida("             return;\r\n");
            $nm_saida->saida("         }\r\n");

@@ -109,6 +109,7 @@ function NM_hide_menu()
         $.blockUI({
           message: $("#id_div_process_block"),
           overlayCSS: { backgroundColor: sc_ajaxBg },
+          baseZ: 1013,
           css: {
             borderColor: sc_ajaxBordC,
             borderStyle: sc_ajaxBordS,
